@@ -1,2 +1,2 @@
 # landing-PageWeb
-Repositorio para a avalaiação da primeira unidade da disciplina de Desenvolvimento de softaware para web
+Repositorio para a avaliação da disciplina de desenvolvimento de software para web
